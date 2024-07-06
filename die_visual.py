@@ -19,7 +19,9 @@ for value in poss_results:
     frequencies.append(frequency)
 
 # Wizualizacja wyników.
-fig = px.bar(x=poss_results, y=frequencies)
+title = "Wynik rzucania pojedynczą kością D6 tysiąc razy."
+labels = {'x': 'Wynik', 'y': 'Częstotliwość występowania wartości'}
+fig = px.bar(x=poss_results, y=frequencies, title=title, labels=labels)
 fig.show()
 
 print(frequencies)
