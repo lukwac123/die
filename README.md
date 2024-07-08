@@ -6,7 +6,7 @@ W pliku _die_visual.py_ przedstawiono symulację rzutu 1000 razy jedną kością
 Wyniki tych rzutów przedstawione zostały na Wykresie 1. który standardowo wyświetla się w przeglądarce WWW i daje możliwość zapisania go w postaci pliku HTML.
 Klikając w elementy wykresu mamy możliwość wyświetlenia dodatkowych szczegółów o danym elemencie.
 
-![jedna_kosc_D6](https://github.com/lukwac123/die/assets/161370029/a4a72e82-4d4c-453a-891b-006eec98d8fe)
+![jedna_kosc_D6](https://github.com/lukwac123/die/assets/161370029/d39f27f1-f2e5-47e7-bb8a-b671e95ec667)
 
 <sup>Wykres 1. Wyniki symulacji rzucania pojedynczą kością typu D6.</sup>
 
